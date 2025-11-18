@@ -6,17 +6,17 @@ app = Flask(__name__)
 files = [
     {
         "name": "☁️ Megaserver among us linux.zip",
-        "url": "https://drive.google.com/uc?export=download&id=14uRL7YQ3e0h6OiBwrDzVpvOoCpoUHoV1",
+        "url": "https://drive.google.com/uc?export=download&id=1rmResHDnTEIUlKvYAgOBHqCiDWzCM_dd",
         "icon": "linux.JPG"
     },
     {
         "name": "megaserver among us.app",
-        "url": "https://drive.google.com/uc?export=download&id=1lhIoQY_GW-hFkQ0_OM5_lU4CysL7iIwX",
+        "url": "https://drive.google.com/uc?export=download&id=1waRVeJ4BoFsVysf7IR38B2xfgikgGA7x",
         "icon": "macos.PNG"
     },
     {
         "name": "☁️ Megaserver among us windows.exe",
-        "url": "https://drive.google.com/uc?export=download&id=1dUhyTDyhWSzrsXCZ5qVwDCHsLJ2rT4B7",
+        "url": "https://drive.google.com/uc?export=dowbload&id=19-55muWBpS4lGo6OHSAC_fN_YNdKJeQp",
         "icon": "windows.PNG"
     }
 ]
