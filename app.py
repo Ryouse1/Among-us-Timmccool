@@ -39,7 +39,7 @@ def index():
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>Fnf Ryouse1 Engine ダウンロード</title>
+<titleTimmccool among us download</title>
 <style>
 body {{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -103,7 +103,7 @@ h1 {{
 </style>
 </head>
 <body>
-<h1>Fnf Ryouse1 Engine ダウンロード</h1>
+<h1>Timmccool among us download</h1>
 {file_cards}
 </body>
 </html>
