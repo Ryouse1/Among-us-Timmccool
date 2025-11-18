@@ -10,7 +10,7 @@ files = [
         "icon": "linux.JPG"
     },
     {
-        "name": "megaserver among us.app",
+        "name": "☁️ megaserver among us.app",
         "url": "https://drive.google.com/uc?export=download&id=1waRVeJ4BoFsVysf7IR38B2xfgikgGA7x",
         "icon": "macos.PNG"
     },
