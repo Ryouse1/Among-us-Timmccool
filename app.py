@@ -5,24 +5,19 @@ app = Flask(__name__)
 # ファイル情報（Google Drive 直接ダウンロードリンク + アイコン指定）
 files = [
     {
-        "name": "Fnf Ryouse1 Engine 1.0 Linux.zip",
+        "name": "☁️ Megaserver among us linux.zip",
         "url": "https://drive.google.com/uc?export=download&id=14uRL7YQ3e0h6OiBwrDzVpvOoCpoUHoV1",
         "icon": "linux.JPG"
     },
     {
-        "name": "Fnf Ryouse1 Engine 1.0 macOS.app",
+        "name": "megaserver among us.app",
         "url": "https://drive.google.com/uc?export=download&id=1lhIoQY_GW-hFkQ0_OM5_lU4CysL7iIwX",
         "icon": "macos.PNG"
     },
     {
-        "name": "Fnf Ryouse1 Engine 1.0 windows.exe",
+        "name": "☁️ Megaserver among us windows.exe",
         "url": "https://drive.google.com/uc?export=download&id=1dUhyTDyhWSzrsXCZ5qVwDCHsLJ2rT4B7",
         "icon": "windows.PNG"
-    },
-    {
-        "name": "Fnf Ryouse1 Engine 1.0.sb3",
-        "url": "https://drive.google.com/uc?export=download&id=1TJHboBty14ZZvxKxreDPUXmcHvCGlFwb",
-        "icon": "generic.PNG"
     }
 ]
 
